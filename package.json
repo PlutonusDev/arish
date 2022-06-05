@@ -1,0 +1,16 @@
+{
+  "name": "arish",
+  "version": "1.0.0",
+  "description": "thingy for arish",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "PlutonusDev",
+  "license": "GPL-3.0",
+  "private": true,
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "discord.js": "~11.0.0"
+  }
+}
